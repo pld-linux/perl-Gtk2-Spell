@@ -14,7 +14,6 @@ Summary:	Gtk2::Spell - Bindings for GtkSpell with Gtk2
 Name:		perl-Gtk2-Spell
 Version:	1.03
 Release:	1
-# same as perl (REMOVE THIS LINE IF NOT TRUE)
 License:	GPL v2
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Gtk2/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -33,8 +32,6 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Perl bindings to GtkSpell, used in concert with Gtk2::TextView. Provides 
 mis-spelled word highlighting in red and offers a right click pop-up menu with
 suggested corrections.
-
-
 
 # %description -l pl.UTF-8
 # TODO
