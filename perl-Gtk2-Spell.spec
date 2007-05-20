@@ -15,12 +15,11 @@ Name:		perl-Gtk2-Spell
 Version:	1.03
 Release:	1
 # same as perl (REMOVE THIS LINE IF NOT TRUE)
-License:	GPL v1+ or Artistic
+License:	GPL v2
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Gtk2/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	caf3b6d1e48e4c9096b2ab1ee15cbf4d
-# generic URL, check or change before uncommenting
-#URL:		http://search.cpan.org/dist/Gtk2-Spell/
+URL:		http://search.cpan.org/~mlehmann/Gtk2-Spell-1.03/
 BuildRequires:	gtkspell-devel
 BuildRequires:	perl-ExtUtils-Depends
 BuildRequires:	perl-ExtUtils-PkgConfig
