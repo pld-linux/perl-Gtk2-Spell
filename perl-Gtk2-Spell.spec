@@ -9,7 +9,7 @@ Summary:	Gtk2::Spell - Bindings for GtkSpell with Gtk2
 Summary(pl.UTF-8):	Gtk2::Spell - wiązania dla GtkSpell z Gtk2
 Name:		perl-Gtk2-Spell
 Version:	1.03
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Gtk2/%{pdir}-%{pnam}-%{version}.tar.gz
