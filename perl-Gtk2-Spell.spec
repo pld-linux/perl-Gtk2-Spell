@@ -65,5 +65,4 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Gtk2/Spell
 %dir %{perl_vendorarch}/auto/Gtk2/Spell
 %attr(755,root,root) %{perl_vendorarch}/auto/Gtk2/Spell/Spell.so
-%{perl_vendorarch}/auto/Gtk2/Spell/Spell.bs
 %{_mandir}/man3/Gtk2::Spell.3pm*
