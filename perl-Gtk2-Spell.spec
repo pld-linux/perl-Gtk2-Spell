@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	tests		# perform "make test" (requires DISPLAY)
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Gtk2
 %define	pnam	Spell
 Summary:	Gtk2::Spell - Bindings for GtkSpell with Gtk2
